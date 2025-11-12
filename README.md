@@ -1,3 +1,3 @@
-# Causal-Inference-Learning
+# Causal-Inference-Resources
 
-Collection of resources, explorations, and personal projects created as part of my causal inference learning journey.
+Collection of resources, tutorials, and personal projects related to causal inference and quasi-experimentation techniques.
